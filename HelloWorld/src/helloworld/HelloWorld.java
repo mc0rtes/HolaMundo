@@ -1,6 +1,9 @@
 package helloworld;
 
+// Test de versionado en git
+
 public class HelloWorld {
+	public String holaMundo="Hola";
 	private float diametro;
     private float altura;
     private String idDeposito;
@@ -16,6 +19,7 @@ public class HelloWorld {
             diametro = valor_diametro;
             altura = valor_altura;
             idDeposito = valor_idDeposito;
+            holaMundo = "HolaMundo!";
         } else {
             diametro = 10;
             altura = 5;
