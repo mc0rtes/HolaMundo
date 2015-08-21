@@ -2,7 +2,7 @@ package helloworld;
 
 // Test de versionado en git
 // 20150821 Nuevo Cambio
-// Nuevo Cambio
+// Nuevo Cambio - Git
 
 public class HelloWorld {
 	public String holaMundo="HolaMundo!!";
